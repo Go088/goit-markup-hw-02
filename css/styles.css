@@ -73,7 +73,6 @@ body {font-family: 'Raleway', sans-serif;
     letter-spacing: 0.72px;
     text-transform: capitalize;}
 .name {color: var(--navyblue, #2E2F42);
-    text-align:
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
@@ -98,9 +97,8 @@ body {font-family: 'Raleway', sans-serif;
 
     /* Footer */
 .footer-section {background: var(--navyblue, #2E2F42);}
-.footer-logo {color: var(--cloud, #F4F4FD);
-    font-family: Raleway;
-    font-size: 18px;
+.footer-logo {color: var(--cloud, #F4F4FD); 
+    font-family: Raleway; font-size: 18px; 
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0.54px;
