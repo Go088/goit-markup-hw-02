@@ -54,7 +54,7 @@ body {font-family: 'Raleway', sans-serif;
 .hero-section-button:hover, .hero-section:focus {background-color: #404BBF;}
     
 .future-title {
-    color: var(--navyblue, #2E2F42);
+    color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
