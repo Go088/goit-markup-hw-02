@@ -43,7 +43,7 @@ body {font-family: 'Raleway', sans-serif;
     line-height: 1.07;
     letter-spacing: 1.12px;}
 
-.hero-section-button {color: #FFF;
+.hero-button {color: #FFF;
     background-color: #4D5AE5;
     font-family: Roboto, sans-serif;
     font-size: 16px;
@@ -51,10 +51,10 @@ body {font-family: 'Raleway', sans-serif;
     line-height: 24px;
     letter-spacing: 0.64px;
     cursor: pointer;}
-.hero-section-button:hover, .hero-section:focus {background-color: #404BBF;}
+.hero-button:hover, .hero-button:focus {background-color: #404BBF;}
 
 /* Section 2 */
-.future-title {
+.features-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -70,7 +70,7 @@ body {font-family: 'Raleway', sans-serif;
     letter-spacing: 0.32px;}
 
     /* Section 3 */
-.team-section-list {background-color: #F4F4FD;}
+.team-section {background-color: #F4F4FD;}
 .team-title {color: #2E2F42;
     text-align: center;
     font-family: Roboto;
