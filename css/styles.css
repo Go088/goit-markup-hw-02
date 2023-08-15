@@ -4,7 +4,7 @@ body {font-family: 'Raleway', sans-serif;
     a {text-decoration: none;}
     ul {list-style: none;}
 
-    /* Top Line */
+    /* Header */
 .logo {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
@@ -51,7 +51,7 @@ body {font-family: 'Raleway', sans-serif;
     line-height: 24px;
     letter-spacing: 0.64px;
     cursor: pointer;}
-.hero-section-button:hover {background-color: #404BBF;}
+.hero-section-button:hover, .hero-section:focus {background-color: #404BBF;}
     
 .future-title {
     color: var(--navyblue, #2E2F42);
@@ -69,8 +69,8 @@ body {font-family: 'Raleway', sans-serif;
     letter-spacing: 0.32px;}
 
     /* Our team section */
-.team-section {background: var(--cloud, #F4F4FD);}
-.team-title {color: var(--navyblue, #2E2F42);
+.footer-section-list {background-color: #FFFFFF;}
+.team-title {color: #2E2F42;
     text-align: center;
     font-family: Roboto;
     font-size: 36px;
@@ -96,7 +96,7 @@ body {font-family: 'Raleway', sans-serif;
     letter-spacing: 0.72px;
     text-transform: capitalize;}
 
-.product-title {color: var(--navyblue, #2E2F42);
+.product-title {color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
@@ -104,7 +104,7 @@ body {font-family: 'Raleway', sans-serif;
     letter-spacing: 0.4px;}
 
     /* Footer */
-.footer-section {background: var(--navyblue, #2E2F42);}
+.footer-section {background: #2E2F42;}
 .footer-logo {color: #4d5ae5; 
     font-family: Raleway, sans-serif; font-size: 18px; 
     font-weight: 700;
