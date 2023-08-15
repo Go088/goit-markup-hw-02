@@ -69,7 +69,7 @@ body {font-family: 'Raleway', sans-serif;
     letter-spacing: 0.32px;}
 
     /* Our team section */
-.footer-section-list {background-color: #FFFFFF;}
+.team-section {background-color: #FFFFFF;}
 .team-title {color: #2E2F42;
     text-align: center;
     font-family: Roboto;
@@ -78,6 +78,7 @@ body {font-family: 'Raleway', sans-serif;
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;}
+.team-list {background-color: #FFFFFF;}
 .name {color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
