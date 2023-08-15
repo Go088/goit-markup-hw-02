@@ -52,7 +52,8 @@ body {font-family: 'Raleway', sans-serif;
     letter-spacing: 0.64px;
     cursor: pointer;}
 .hero-section-button:hover, .hero-section:focus {background-color: #404BBF;}
-    
+
+/* Section 2 */
 .future-title {
     color: #2E2F42;
     font-family: Roboto;
@@ -68,8 +69,8 @@ body {font-family: 'Raleway', sans-serif;
     line-height: 24px;
     letter-spacing: 0.32px;}
 
-    /* Our team section */
-.team-section {background-color: #FFFFFF;}
+    /* Section 3 */
+.team-section-list {background-color: #F4F4FD;}
 .team-title {color: #2E2F42;
     text-align: center;
     font-family: Roboto;
@@ -86,7 +87,7 @@ body {font-family: 'Raleway', sans-serif;
     line-height: 24px;
     letter-spacing: 0.4px;}
 
-    /* Portfolio section */
+    /* Section 4 */
 .portfolio {background-color: #FFFFFF;}
 .portfolio-title {color: #2E2F42;
     text-align: center;
